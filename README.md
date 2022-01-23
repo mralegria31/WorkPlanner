@@ -7,6 +7,6 @@ Using HTML, CSS, powered by jQuery.
  https://mralegria31.github.io/WorkPlanner/
 
  ## Before Modification
-![alt text](images\screencapture-mralegria31-github-io-WorkPlanner-2022-01-23-18_04_49.png)
+![Alt text](images/screencapture-mralegria31-github-io-WorkPlanner-2022-01-23-18_04_49.png)
 
 ## After Modification
