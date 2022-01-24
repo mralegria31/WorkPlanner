@@ -10,3 +10,4 @@ Using HTML, CSS, powered by jQuery.
 ![Alt text](images/screencapture-mralegria31-github-io-WorkPlanner-2022-01-23-18_04_49.png)
 
 ## After Modification
+![Alt text](images/screencapture-127-0-0-1-5500-index-html-2022-01-23-20_09_51.png)
