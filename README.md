@@ -12,4 +12,4 @@
 ## After Modification:
 ![Alt text](images/screencapture-127-0-0-1-5500-index-html-2022-01-23-20_09_51.png)
 
-## Gif of Website in Action
+
